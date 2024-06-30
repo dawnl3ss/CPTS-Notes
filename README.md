@@ -13,6 +13,21 @@ My goal is to finish the Certified Penetration Testing Specialist job role path 
 
 In this "journal", I will write all my notes and my thoughts throughout my learning journey but I will also talk about my difficulties and my worries alongside.
 
-Before starting, I wanted to write my learning schedule.
+Before starting, I wanted to write my learning schedule :
 
-In France, we have two month of summer vacations during July and Auguste, re-starting school September the first. Therefore, I have 2 months free to try to progress as far as I can. 
+In France, we have two months of summer vacations during July and Auguste, re-starting school September the first. Therefore, I have 2 months free to try to progress as far as I can. 
+
+From September the first to the end of December, I will be in school. I will therefore have far less time dedicated to my cybersecurity learning journey. I reckon that I will only learn things during week-ends and vacations.
+
+From January to June 2025, I will do a semester abroad, in California State University: Los Angeles. Knowing that the courses and lessons in the USA are way more easier than in my engineering school, I will have plenty of time to learn but also to discover this huge and beautiful country ahah.
+
+To put it in a nutshell, my goal is to increase my knowledge through the year and enjoying my life in the same time.
+
+During these to next months, I will study 1h every day, from 9:00PM to 10:00PM.
+
+
+Thanks for reading,
+Dawnless.
+
+--------------------------------------------
+--------------------------------------------
