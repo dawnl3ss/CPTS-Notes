@@ -57,7 +57,7 @@ The flag "-N" is used to connect as Anonymous since we are allowed to connect as
 
 - Connecting to one Share :
 
-```shell-session
+```sh
 dawnl3ss@htb[/htb]$ smbclient //IP_ADDR/share_name
 ```
 
@@ -100,7 +100,7 @@ user:[cry0l1t3] rid:[0x3e9]                         (example)
 
 Since we have RIDs of users, we can get some information about them :
 
-```shell-session
+```sh
 rpcclient $> queryuser RID
 ```
 
@@ -133,7 +133,7 @@ The use of enum4linux is appreciate since it does pretty much all in one command
 
 
 
-07/01/2024,
+07/01/2024,  
 Dawnless.
 
 --------------------------------------------
