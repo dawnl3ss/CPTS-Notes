@@ -45,7 +45,7 @@ As far as I know, a forest can contain a root domain with its own subdomains and
 
 <img src="https://academy.hackthebox.com/storage/modules/74/ad_forests.png">
 
-Forests can have `trust relationship` between them which basically allow a user in the A-forest to access to data stored in B-forest.
+Forests can have `trust relationships` between them which basically allows a user in the A-forest to access to data stored in B-forest.
 
 <img src="https://academy.hackthebox.com/storage/modules/74/ilflog2.png">
 
