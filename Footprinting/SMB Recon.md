@@ -5,7 +5,7 @@
 --------------------------------------------
 --------------------------------------------
 
-*Tools used :*         smbclient, rpcclient, enum4linux.  
+*Tools used :*        smbclient, rpcclient, enum4linux.  
 *Goal* :                  Know how to collect information and connect to SMB shares.  
 
 SMB is a client-server protocol that regulates access to files and entire directories and other network resources such as printers, routers, or interfaces released for the network on Windows. The Linux equivalent is implemented with tools such as Samba.  
