@@ -49,5 +49,13 @@ Forests can have `trust relationships` between them which basically allows a use
 
 <img src="https://academy.hackthebox.com/storage/modules/74/ilflog2.png">
 
+#### Conclusion :
 
 In conclusion, Active Directory is widely used by companies all around the world. It permits to share data between different groups of domain and users.
+
+
+09/17/2024,  
+Dawnless.
+
+--------------------------------------------
+--------------------------------------------

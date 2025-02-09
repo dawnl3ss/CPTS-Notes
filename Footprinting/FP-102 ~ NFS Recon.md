@@ -45,7 +45,7 @@ We can use a NMAP NSE script to reveal more information about the NFS shares ava
 dawnl3ss@htb[/htb]$ nmap -sV -p 111,2049 IP_ADDR --script nfs*
 ```
 
-The "IP_ADDR" should be replaced by the ip address of the targeted machine.
+The "IP_ADDR" should be replaced by the IP address of the targeted machine.
 
 ###### Interact with NFS :
 

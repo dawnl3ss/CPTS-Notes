@@ -12,7 +12,7 @@ SMB is a client-server protocol that regulates access to files and entire direct
 
 #### Identifying SMB :
 
-SMB Server usually uses port `445`and `139`. Here is an example of NMAP scan with Samba opened:
+SMB Server usually uses port **`445`** and `139`. Here is an example of NMAP scan with Samba opened:
 
 ```sh
 dawnl3ss@htb[/htb]$ sudo nmap 10.129.14.128 -sV -sC -p139,445

@@ -50,3 +50,10 @@ A **`SPN`** uniquely identifies a service instance. They are used by Kerberos au
 #### Fully Qualified Domain Name (FQDN) :
 
 An **`FQDN`** is the complete name for a specific computer or host. It is written with the hostname and domain name in the format [host name].[domain name].[tld]. This is used to specify an object's location in the tree hierarchy of DNS. The FQDN can be used to locate hosts in an Active Directory without knowing the IP address, much like when browsing to a website such as google.com instead of typing in the associated IP address. An example would be the host `DC01` in the domain `INLANEFREIGHT.LOCAL`. The FQDN here would be `DC01.INLANEFREIGHT.LOCAL`.
+
+
+09/20/2024,  
+Dawnless.
+
+--------------------------------------------
+--------------------------------------------

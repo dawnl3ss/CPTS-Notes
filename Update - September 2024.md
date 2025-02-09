@@ -7,7 +7,7 @@
 
 Well, this was by far my worst failure ever.
 
-During all summer, I dodged the learning because I was too tired to learn things. In fact, my summer job took all my free time away and swept my determination.
+During all summer, I dodged the learning because I was too tired to learn things. In fact, my summer job took all my free time away and swept my determination away.
 
 I was working from 10:00am to 7:00pm in a Costco, standing here and there and selling products to customers. Pretty boring actually...
 
